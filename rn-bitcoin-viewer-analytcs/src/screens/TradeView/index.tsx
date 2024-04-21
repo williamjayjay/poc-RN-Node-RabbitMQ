@@ -19,7 +19,7 @@ export const { width: size } = Dimensions.get("window");
 // }));
 // TESTE LOCAL
 
-export function Dash() {
+export function TradeView() {
   const scaleYCandle = useSharedValue(0);
 
   const {
