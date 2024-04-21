@@ -1,0 +1,5 @@
+#not
+.env
+node_modules
+anotations.md
+build
