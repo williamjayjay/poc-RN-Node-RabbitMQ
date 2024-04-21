@@ -7,6 +7,10 @@ Resumo:
 
 - App também recebendo atualizações dos preços em tempo real com socket.io. RabbitMQ e MongoDB rodando no Docker.
 
+<p align="center">
+  <img alt="Animated Web Demonstration" title="#poc" src="github/demo_bg.gif" >
+</p>
+
 - Utilizei o PM2 para rodar o rabbitMQ e a API em node em segundo plano. 
 
 | Tela TradeView | Tela TradeView - Atualizada em tempo real |
