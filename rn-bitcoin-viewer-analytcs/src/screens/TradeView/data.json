@@ -17,7 +17,7 @@
      "high": 7206.59,
      "low": 7176.55,
      "close": 7197.28,
-     "color":"red"
+     "color":"green"
    },
    {
     "_id":"3",
@@ -37,7 +37,7 @@
      "high": 7156.18,
      "low": 7130.68,
      "close": 7151.49,
-     "color":"red"
+     "color":"green"
    },
 
    {
@@ -48,7 +48,7 @@
      "high": 7169.7,
      "low": 7152.38,
      "close": 7169.31,
-     "color":"red"
+     "color":"green"
    },
    {
     "_id":"6781", 
@@ -58,7 +58,7 @@
      "high": 7189.68,
      "low": 7166.26,
      "close": 7184.84,
-     "color":"red"
+     "color":"green"
    },
    {
     "_id":"167867", 
@@ -89,7 +89,7 @@
      "low": 7162.46,
      "close": 7203.9
 ,
-"color":"red"   },
+"color":"green"   },
    {
     "_id":"13213", 
     "finalDateTime": "2019-12-31 20:00",
@@ -98,7 +98,7 @@
      "high": 7232.65,
      "low": 7203.9,
      "close": 7232.56,
-     "color":"red"
+     "color":"green"
    },
    {
     "_id":"23", 
