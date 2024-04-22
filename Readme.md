@@ -251,7 +251,7 @@ Para garantir o funcionamento adequado da nossa aplicação, verifique abaixo:
 ## UI UX
 UI e UX feita baseada em aplicações ja existentes no mercado e em modelos existentes em plataformas como dribble e behance.
 
--Link para vídeo com o som que exibe ao chegar uma nova vela no gráfico [Video-React-Native](https://vimeo.com/937610715?share=copy){target="_blank"}
+-Link para vídeo com o som que exibe ao chegar uma nova vela no gráfico [Video-React-Native](https://vimeo.com/937610715?share=copy)
 
 | Tela de início | Tela de início (6) |
 |:-------------------------:|:-------------------------:|
