@@ -39,7 +39,7 @@ Para criar os containers docker, siga estas etapas simples:
   docker compose up -d
   ```
 
-1. **Vá para a raiz do btc-candle-generator para criar o container docker do mongodb**:
+2. **Vá para a raiz do diretório btc-candle-api para criar o container docker do mongodb**:
   ```sh
   docker compose up -d
   ```
